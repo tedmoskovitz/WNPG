@@ -1,14 +1,16 @@
-## Wasserstein Natural Policy Gradients (WNPG)
+## Wasserstein Natural Policy Gradients (WNPG) + Wasserstein Natural Evolution Strategies (WNES) 
 
-Implementation of WNPG from our paper [Efficient Wasserstein Natural Gradients for Reinforcement Learning](https://arxiv.org/abs/2010.05380)
+Implementations of WNPG and WNES from our paper [Efficient Wasserstein Natural Gradients for Reinforcement Learning](https://arxiv.org/abs/2010.05380)
 
 
 
-To run: 
+To run WNPG: 
 
 ```python
 python run_ppo_kwng.py
 ```
+
+To run WNES, see `WNES.ipynb`.
 
 
 
